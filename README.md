@@ -7,3 +7,6 @@ Write a program to calculate the edit distance between two words and output both
 2. Calculate the edit distance
 3. Output the edit distance
 4. Output the alignment between the two strings that verifies the edit distance.
+
+# How to Run File
+1. Double click on the **edit_distance.exe** file
